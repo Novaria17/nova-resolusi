@@ -2,3 +2,5 @@ nova resolusi
 -konsisten belajar koding
 -membuat platform untuk belajar
 -membuat forum diskusi
+-membuat web
+-kolaborasi dengan lebih banyak expart
